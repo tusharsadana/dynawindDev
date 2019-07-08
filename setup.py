@@ -16,7 +16,6 @@ setuptools.setup(
         "pytz",
         "scipy",
         "nptdms",
-        "psycopg2",
         "sklearn",
     ],
     classifiers=[
